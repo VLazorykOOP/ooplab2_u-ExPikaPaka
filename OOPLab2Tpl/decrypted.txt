@@ -1,0 +1,1 @@
+some text that i wish would be encrypted using special algorithm
